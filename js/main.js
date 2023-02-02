@@ -139,3 +139,11 @@ while (i < pizzas.length) {
     console.log(pizzas[i]);
     i++;
 }
+
+//opdracht 8
+const phones = [phoneOne,phoneTwo, phoneThree, phoneFour, phoneFive];
+let j = 0;
+while (j < phones.length) {
+    console.log(phones[i]);
+    j++;
+}
