@@ -29,7 +29,7 @@ const PizzaThree = {
     ingrediants: "Cheeze, Cheeze, Cheeze, Cheeze, Tomatoe sauce"
 }
 const pizzas = [pizzaOne, PizzaTwo, PizzaThree];
-//auto's
+//auto's opdracht 4
 let opel1 = {
     title: "Opel Corsa 1.4 Turbo OPC-Line CARPLAY NAV PANO DAB XENON STU",
     description: "IntelliLink Pakket, OPC Line Pack, Winter-pakket 2, Cosmo+ pakket, Achteruitrijcamera, Android Auto, Apple Carplay, bi-xenon koplampen, Dab, Dodehoek detector, Elektrisch schuif-/kanteldak.",
@@ -65,7 +65,7 @@ let opel3 = {
     kilometer: 0,
     buildDate: 2022
 }
-//products
+//products opdracht 5
 let itemOne = {
     title: "Sun Vaatwastabletten all in 1 normaal",
     description: "",
@@ -96,7 +96,7 @@ let itemFive = {
     action: "van 2.39 naar 99 cent per pak",
     price: 0.99
 }
-//articles
+//articles opdracht 6
 let phoneOne = {
     title: "Samsung Galaxy S23, 256GB opslag Zwart",
     height: 6.1,
@@ -131,4 +131,11 @@ let phoneFive = {
     screenSize: "2400x1080",
     storage: 128,
     price: 389
+}
+
+//opdracht 7
+let i = 0;
+while (i < pizzas.length) {
+    console.log(pizzas[i]);
+    i++;
 }
