@@ -97,4 +97,38 @@ let itemFive = {
     price: 0.99
 }
 //articles
-let 
+let phoneOne = {
+    title: "Samsung Galaxy S23, 256GB opslag Zwart",
+    height: 6.1,
+    screenSize: "2340x1080",
+    storage: 256,
+    price: 949.00
+}
+let phoneTwo = {
+    title: "Samsung Galaxy S22 128GB Zwart",
+    height: 6.1,
+    screenSize: "2340x1080",
+    storage: 128,
+    price: 608.73
+}
+let phoneThree = {
+    title: "Samsung Galaxy S23 Ultra, 12GB ram, 1TB opslag Groen",
+    height: 6.8,
+    screenSize: "3088x1440",
+    storage: 1000,
+    price: 1579.00
+}
+let phoneFour = {
+    title: "Samsung Galaxy S22 Ultra, 12GB, 256GB Zwart",
+    height: 6.8,
+    screenSize: "3088x1440",
+    storage: 256,
+    price: 1110.00
+}
+let phoneFive = {
+    title: "Google Pixel 6a Groen",
+    height: 6.1,
+    screenSize: "2400x1080",
+    storage: 128,
+    price: 389
+}
