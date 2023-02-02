@@ -65,3 +65,36 @@ let opel3 = {
     kilometer: 0,
     buildDate: 2022
 }
+//products
+let itemOne = {
+    title: "Sun Vaatwastabletten all in 1 normaal",
+    description: "",
+    action: "van 9.45 naar 2.49 per pak",
+    price: 2.49
+}
+let itemTwo = {
+    title: "Mona Pudding vanille aardbeiensaus",
+    description: "Pudding met vanillesmaak met 11% aardbeiensaus",
+    action: "van 1.79 naar 89 cent per pak",
+    price: 0.89
+}
+let itemThree = {
+    title: "1 de Beste Mandarijnen verpakt",
+    description: "Mandarijn",
+    action: "van 2.49 naar 1.99 voor 1kg",
+    price: 2.49
+}
+let itemFour = {
+    title: "McVitie's Digestive puur",
+    description: "TARWEBISCUITS MET EEN LAAGJE PURE CHOCOLADE.",
+    action: "van 1.89 naar 99 cent per pak",
+    price: 0.99
+}
+let itemFive = {
+    title: "Alpro Haverdrink (vers) zonder suiker",
+    description: "Haverdrink met toegevoegde calcium en vitaminen.",
+    action: "van 2.39 naar 99 cent per pak",
+    price: 0.99
+}
+//articles
+let 
